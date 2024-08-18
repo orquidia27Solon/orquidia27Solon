@@ -1,15 +1,17 @@
 ## Boas vindas ao meu perfil 💙
 
+Meu nome é Samuel Martins Fidelis
 
-**orquidia27Solon/orquidia27Solon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na línguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entra em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ninjalendario747@gmail.com
+
+@ninjalendario747
+
+![](https://media.tenor.com/iqyhP4D5ygAAAAAi/emoji-smile.gif)
+
+
